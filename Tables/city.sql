@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[city]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [name] VARCHAR(20) NULL
+)
